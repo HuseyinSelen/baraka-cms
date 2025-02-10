@@ -1,0 +1,14 @@
+.sortable {
+  cursor: move;
+}
+#hosgeldiniz {
+  font-size: xx-large;
+}
+
+.kullanici_kilavuzu {
+  font-size: 19px;
+}
+
+.kullanici_kilavuzu h3 {
+  font-weight: bold;
+}
