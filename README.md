@@ -44,13 +44,17 @@ This project is open-source, and anyone can use or modify it. To install and run
    ```sh
    https://github.com/HuseyinSelen/baraka-cms.git
    ```
-2. Set up a local server (e.g., XAMPP, LAMP, or MAMP) and import the provided database.
-3. Configure the database connection in `nedmin/netting/dbconfig.php`.
-4. Run the project on your local server.
+2. Set up a local server (e.g., XAMPP, LAMP, or MAMP).
+3. Create your database and import the baraka_panel.sql file.
+4. Configure the database connection in `nedmin/netting/dbconfig.php`.
+5. Run the project on your local server.
 
 ## Contact
 If you want to know more about this project, feel free to reach out to me:
 - **Email:** selen.huseyin98@gmail.com
+
+## 📜 License
+This project is licensed under the MIT License.
 
 If you like the project, don't forget to star the repository ⭐
 
