@@ -53,8 +53,8 @@ This project is open-source, and anyone can use or modify it. To install and run
 If you want to know more about this project, feel free to reach out to me:
 - **Email:** selen.huseyin98@gmail.com
 
+If you like the project, don't forget to star the repository ⭐
+
 ## 📜 License
 This project is licensed under the MIT License.
-
-If you like the project, don't forget to star the repository ⭐
 
